@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://github.com/madalina1teaca/base-apparel-coming-soon-master)
+- Live Site URL: (https://mt-base-apparel-coming-soon.netlify.app/)
 
 ## My process
 
